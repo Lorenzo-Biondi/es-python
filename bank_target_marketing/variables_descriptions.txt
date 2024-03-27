@@ -1,0 +1,16 @@
+- età: età del cliente.
+• lavoro: occupazione del cliente.
+• civile: stato civile del cliente.
+• istruzione: livello di istruzione del cliente.
+• default: se il cliente ha credito in default.
+• saldo: saldo medio annuo del cliente.
+• alloggio: se il cliente ha un mutuo per la casa.
+• prestito: se il cliente ha un prestito personale.
+• contatto: Tipo di contatto di comunicazione con il cliente.
+• giorno: ultimo giorno di contatto del mese.
+• mese: ultimo mese di contatto dell'anno.
+• durata: durata dell'ultimo contatto in secondi.
+• campagna: numero di contatti effettuati durante questa campagna per il cliente.
+• pdays: numero di giorni trascorsi dall'ultima volta che il cliente è stato
+contattato da una campagna precedente.
+• precedente: numero di contatti eseguiti prima di questa campagna per il cliente.
